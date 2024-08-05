@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages and Frameworks⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,rust,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,rust" /><br>
     <img src="https://skillicons.dev/icons?i=nextjs,express,python,java,postgres,cpp,linux,docker" /><br>
 </div>
 
