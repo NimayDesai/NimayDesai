@@ -6,10 +6,22 @@
 <div align="center"> 
 
 ## About Me
+
+High School Student currently in the IB DP programme
+
 ⚙️ Currently learning Machine Learning and solving LeetCode problems
 
 🧑‍💻 Proficient in TypeScript, JavaScript, React, PostgreSQL and Python
 
+## Achievements
+
+1st Place in FBLA Coding and Programming at a National Level
+
+Award of Distinction in the CCC
+
+Over 100+ LeetCode Problems
+
+Made 2 Fullstack websites with Login, SSR, and a full database
 
 </div>
 
