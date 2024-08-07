@@ -6,7 +6,7 @@
 <div align="center"> 
 
 ## About Me
- I’m currently working on the clubs that I'm currently in such as CodeLink and CyberTech
+Currently learning Machine Learning and solving LeetCode problems
 
  Proficient in TypeScript, JavaScript, React, PostgreSQL and Python
 
