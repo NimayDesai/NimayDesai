@@ -9,7 +9,7 @@
 
 High School Student currently in the IB DP programme
 
-⚙️ Currently learning Machine Learning and solving LeetCode problems, while working on teaching code to other students with my own club, CodeLink
+⚙️ Currently learning Machine Learning and solving LeetCode problems, while working on teaching code to other students with my own club, CodeLink creating a school wide mental health app
 
 🧑‍💻 Proficient in TypeScript, JavaScript, React, PostgreSQL and Python
 
