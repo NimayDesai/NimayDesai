@@ -21,7 +21,7 @@ Award of Distinction in the CCC
 
 Over 100+ LeetCode Problems
 
-Made 2 Fullstack websites with Login, SSR, and a full database
+Made 3 Fullstack websites with Login, SSR, and a full database
 
 </div>
 
