@@ -7,7 +7,7 @@
 
 ## About Me
 
-High School Student currently in the IB DP programme
+High School Student currently in the IB Diploma Programme
 
 ⚙️ Currently learning Machine Learning and solving LeetCode problems, while working on teaching code to other students with my own club, CodeLink creating a school wide mental health app
 
