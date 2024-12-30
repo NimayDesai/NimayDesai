@@ -34,7 +34,7 @@ Made 3 Fullstack websites with Login, SSR, and a full database
 
  <hr/>
 
-<h2 align="center">⚒️ Languages and Frameworks⚒️</h2>
+<h2 align="center">⚒️ Technologies ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,rust,graphql,prisma,express,django,github" /><br>
